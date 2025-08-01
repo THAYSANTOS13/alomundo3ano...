@@ -14,5 +14,5 @@ let aluno1 ={
     nome: 'Thaísa',
     idade: 17
     anoLetivo: 'Ensino Médio'
-    materiasFavoritas: [Educação Física, Programação] 
+    materiasFavoritas: ['Educação Física', 'Programação'] 
 }
